@@ -1,0 +1,59 @@
+body{
+    color:whitesmoke;
+
+}
+body{
+    background-image:url(/imagenes/d-rinden-el-fondo-abstracto-hecho-del-arsenal-de-puntos-y-la-línea-102732535.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:cover;
+
+}
+h2{
+    text-align: center;
+}
+header{
+    padding: 10px;
+    background-color: rgb(36, 174, 158);
+    text-align: center;
+
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(36, 174, 158);
+    letter-spacing: 5px;
+    text-indent: 10px;
+     
+}
+nav a{
+    color: whitesmoke;
+    padding: 7px 16px;
+    text-align: center;
+    text-decoration: none;
+}
+section img {
+    border-radius: 900px;
+    background-attachment: fixed;
+    height: 600px;
+    width: 300px;
+    text-align: center;
+    margin:0px;
+    image-rendering: auto;
+
+
+}
+p{
+    text-align: center;
+}
+.iconos a{
+    font-size: 100px;
+    display:contents;
+    background-origin:content-box;
+
+    
+    
+}
+
+
+
